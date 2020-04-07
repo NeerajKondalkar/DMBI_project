@@ -3,9 +3,10 @@ Prediction of App ratings
 TE-IT-A
 
 Group Members :
-1. Shubham Kamble   - 26
-2. Prashant Kolte   - 31
-3. Neeraj Kondalkar - 32
+1. Sushil Kadam     - 25
+2. Shubham Kamble   - 26
+3. Prashant Kolte   - 31
+4. Neeraj Kondalkar - 32
 
 Project Title : Prediction of the ratings of an app in 
 Google Play Store.
