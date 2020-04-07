@@ -6,7 +6,10 @@ Project Description : The data mining model uses Decision Tree classifier. The d
 Group members : 
 
 Sushil Kadam      - 25 
+
 Shubham Kamble    - 26
+
 Prashant Kolte    - 31
+
 Neeraj Kondalkar  - 32
                       
