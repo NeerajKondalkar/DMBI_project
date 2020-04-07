@@ -1,15 +1,13 @@
-# DMBI_project
-Project Title : Prediction of app ratings 
+TE-IT-A
 
-Project Description : The data mining model uses Logistic Regression which gives an accuracy of 0.76. The dataset used is obtained from kaggle 
+Group Members :
+1. Shubham Kamble   - 26
+2. Prashant Kolte   - 31
+3. Neeraj Kondalkar - 32
 
-Group members : TE-IT-A
+Project Title : Prediction of the number of downloads/installs/users of an app in 
+Google Play Store.
 
-Sushil Kadam      - 25 
-
-Shubham Kamble    - 26
-
-Prashant Kolte    - 31
-
-Neeraj Kondalkar  - 32
-                      
+Project description :
+The project aims at predicting the number of users that an app will have after
+ < >  months from release.
