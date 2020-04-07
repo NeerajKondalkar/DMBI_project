@@ -5,9 +5,8 @@ Group Members :
 2. Prashant Kolte   - 31
 3. Neeraj Kondalkar - 32
 
-Project Title : Prediction of the number of downloads/installs/users of an app in 
+Project Title : Prediction of the ratings of an app in 
 Google Play Store.
 
 Project description :
-The project aims at predicting the number of users that an app will have after
- < >  months from release.
+The DMM uses Logistic regression for training and testing. The dataset files are obtained from kaggle. 
